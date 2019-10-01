@@ -65,7 +65,7 @@ class Stack(object):
         return len(self.stack_list)
 
 
-# 队列——队尾进队首出，列首进列尾出
+# 队列——队尾进队首出，列首进列
 class Queue(object):
     def __init__(self):
         # 创建队列
